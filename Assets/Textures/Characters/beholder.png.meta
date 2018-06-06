@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: bccdbdf79ed9c4343ac1a97fa905b3dc
+timeCreated: 1459841746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beholder_0
+    21300002: beholder_1
+    21300004: beholder_2
+    21300006: beholder_3
+    21300008: beholder_4
+    21300010: beholder_5
+    21300012: beholder_6
+    21300014: beholder_7
+    21300016: beholder_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: beholder_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 28
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 41}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 41}
+    - name: beholder_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 42}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 42}
+    - name: beholder_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 42}
+        - {x: -23, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 42}
+    - name: beholder_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 42}
+        - {x: -21, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 42}
+    - name: beholder_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 42}
+    - name: beholder_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 28
+        width: 45
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 42}
+        - {x: -22.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 42}
+    - name: beholder_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -24, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 24, y: 21.5}
+    - name: beholder_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -24, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 24, y: 21.5}
+    - name: beholder_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 111
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21.5}
+        - {x: -24, y: -21.5}
+        - {x: 24, y: -21.5}
+        - {x: 24, y: 21.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

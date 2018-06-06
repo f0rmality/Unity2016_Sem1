@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 4aa9bbe640a04f64eb28226daf57a4dc
+timeCreated: 1456045110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DRAWBRIDGE_0
+    21300002: DRAWBRIDGE_1
+    21300004: DRAWBRIDGE_2
+    21300006: DRAWBRIDGE_3
+    21300008: DRAWBRIDGE_4
+    21300010: DRAWBRIDGE_5
+    21300012: DRAWBRIDGE_6
+    21300014: DRAWBRIDGE_7
+    21300016: DRAWBRIDGE_8
+    21300018: DRAWBRIDGE_9
+    21300020: DRAWBRIDGE_10
+    21300022: DRAWBRIDGE_11
+    21300024: DRAWBRIDGE_12
+    21300026: DRAWBRIDGE_13
+    21300028: DRAWBRIDGE_14
+    21300030: DRAWBRIDGE_15
+    21300032: DRAWBRIDGE_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DRAWBRIDGE_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 695
+        width: 128
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 676
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 650
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 3}
+        - {x: -13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+        - {x: 3, y: 32}
+        - {x: -16, y: 20}
+    - name: DRAWBRIDGE_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 667
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 610
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 72}
+        - {x: -16, y: 68}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 66}
+        - {x: 14, y: 72}
+    - name: DRAWBRIDGE_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 650
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 596
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 53}
+        - {x: 1.5, y: 41}
+        - {x: -26.5, y: 10}
+        - {x: -26.5, y: 0}
+        - {x: -17.5, y: 0}
+        - {x: -10.5, y: 2}
+        - {x: 26.5, y: 45}
+        - {x: 26.5, y: 53}
+    - name: DRAWBRIDGE_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 621
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 524
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 176
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 172}
+        - {x: 19, y: 151}
+        - {x: -88, y: 24}
+        - {x: -88, y: 0}
+        - {x: 51, y: 0}
+        - {x: 88, y: 30}
+        - {x: 88, y: 172}
+    - name: DRAWBRIDGE_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 307
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 307
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 283
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 283
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 123
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 64}
+        - {x: -32, y: 64}
+        - {x: -32, y: 35}
+        - {x: 3, y: 0}
+        - {x: 32, y: 0}
+        - {x: 32, y: 29}
+        - {x: 6, y: 61}
+    - name: DRAWBRIDGE_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 16
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DRAWBRIDGE_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 24
+        width: 70
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 71}
+        - {x: -35, y: 43}
+        - {x: -35, y: 28}
+        - {x: -2, y: 0}
+        - {x: 3, y: 0}
+        - {x: 35, y: 29}
+        - {x: 35, y: 46}
+        - {x: 4, y: 71}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

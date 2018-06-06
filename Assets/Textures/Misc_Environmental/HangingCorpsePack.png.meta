@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 8ed6bca19d77e374ba06c8edcbae2474
+timeCreated: 1457581271
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HangingCorpsePack_0
+    21300002: HangingCorpsePack_1
+    21300004: HangingCorpsePack_2
+    21300006: HangingCorpsePack_3
+    21300008: HangingCorpsePack_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HangingCorpsePack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 41}
+        - {x: -18, y: -8}
+        - {x: -18, y: -40}
+        - {x: -16, y: -41}
+        - {x: 12, y: -41}
+        - {x: 18, y: -33}
+        - {x: 18, y: 20}
+        - {x: 12, y: 41}
+    - name: HangingCorpsePack_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -43}
+        - {x: 20, y: -43}
+        - {x: 20, y: 8}
+        - {x: 4, y: 43}
+        - {x: -4, y: 43}
+        - {x: -20, y: -16}
+    - name: HangingCorpsePack_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 53
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HangingCorpsePack_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HangingCorpsePack_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

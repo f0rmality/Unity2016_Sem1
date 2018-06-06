@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 9fde168c10277b3438d36896b3ec3c86
+timeCreated: 1459839337
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DoomObjects_0
+    21300002: DoomObjects_1
+    21300004: DoomObjects_2
+    21300006: DoomObjects_3
+    21300008: DoomObjects_4
+    21300010: DoomObjects_5
+    21300012: DoomObjects_6
+    21300014: DoomObjects_7
+    21300016: DoomObjects_8
+    21300018: DoomObjects_9
+    21300020: DoomObjects_10
+    21300022: DoomObjects_11
+    21300024: DoomObjects_12
+    21300026: DoomObjects_13
+    21300028: DoomObjects_14
+    21300030: DoomObjects_15
+    21300032: DoomObjects_16
+    21300034: DoomObjects_17
+    21300036: DoomObjects_18
+    21300038: DoomObjects_19
+    21300040: DoomObjects_20
+    21300042: DoomObjects_21
+    21300044: DoomObjects_22
+    21300046: DoomObjects_23
+    21300048: DoomObjects_24
+    21300050: DoomObjects_25
+    21300052: DoomObjects_26
+    21300054: DoomObjects_27
+    21300056: DoomObjects_28
+    21300058: DoomObjects_29
+    21300060: DoomObjects_30
+    21300062: DoomObjects_31
+    21300064: DoomObjects_32
+    21300066: DoomObjects_33
+    21300068: DoomObjects_34
+    21300070: DoomObjects_35
+    21300072: DoomObjects_36
+    21300074: DoomObjects_37
+    21300076: DoomObjects_38
+    21300078: DoomObjects_39
+    21300080: DoomObjects_40
+    21300082: DoomObjects_41
+    21300084: DoomObjects_42
+    21300086: DoomObjects_43
+    21300088: DoomObjects_44
+    21300090: DoomObjects_45
+    21300092: DoomObjects_46
+    21300094: DoomObjects_47
+    21300096: DoomObjects_48
+    21300098: DoomObjects_49
+    21300100: DoomObjects_50
+    21300102: DoomObjects_51
+    21300104: DoomObjects_52
+    21300106: DoomObjects_53
+    21300108: DoomObjects_54
+    21300110: DoomObjects_55
+    21300112: DoomObjects_56
+    21300114: DoomObjects_57
+    21300116: DoomObjects_58
+    21300118: DoomObjects_59
+    21300120: DoomObjects_60
+    21300122: DoomObjects_61
+    21300124: DoomObjects_62
+    21300126: DoomObjects_63
+    21300128: DoomObjects_64
+    21300130: DoomObjects_65
+    21300132: DoomObjects_66
+    21300134: DoomObjects_67
+    21300136: DoomObjects_68
+    21300138: DoomObjects_69
+    21300140: DoomObjects_70
+    21300142: DoomObjects_71
+    21300144: DoomObjects_72
+    21300146: DoomObjects_73
+    21300148: DoomObjects_74
+    21300150: DoomObjects_75
+    21300152: DoomObjects_76
+    21300154: DoomObjects_77
+    21300156: DoomObjects_78
+    21300158: DoomObjects_79
+    21300160: DoomObjects_80
+    21300162: DoomObjects_81
+    21300164: DoomObjects_82
+    21300166: DoomObjects_83
+    21300168: DoomObjects_84
+    21300170: DoomObjects_85
+    21300172: DoomObjects_86
+    21300174: DoomObjects_87
+    21300176: DoomObjects_88
+    21300178: DoomObjects_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DoomObjects_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 709
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 713
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 487
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 488
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_39
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 488
+        width: 55
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 23
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 404
+        width: 23
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 404
+        width: 23
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 404
+        width: 23
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 404
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 404
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 404
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 404
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 420
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 44}
+        - {x: -24, y: 24}
+        - {x: -21, y: 1}
+        - {x: -20, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 8}
+        - {x: 24, y: 33}
+        - {x: 7, y: 44}
+    - name: DoomObjects_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 420
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 43}
+        - {x: -23.5, y: 10}
+        - {x: -22.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 23.5, y: 11}
+        - {x: 23.5, y: 25}
+        - {x: 11.5, y: 43}
+    - name: DoomObjects_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 420
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 44}
+        - {x: -23, y: 8}
+        - {x: -22, y: 0}
+        - {x: 14, y: 0}
+        - {x: 23, y: 13}
+        - {x: 23, y: 28}
+        - {x: 10, y: 44}
+    - name: DoomObjects_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 404
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_52
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 404
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 404
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 49}
+        - {x: 7, y: 66}
+        - {x: -4, y: 66}
+        - {x: -20, y: 58}
+        - {x: -20, y: 0}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 19, y: 5}
+        - {x: 20, y: 5}
+    - name: DoomObjects_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 334
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 47}
+        - {x: -9.5, y: 33}
+        - {x: -20.5, y: 9}
+        - {x: -20.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 35}
+        - {x: 16.5, y: 63}
+        - {x: 6.5, y: 67}
+        - {x: -5.5, y: 67}
+        - {x: -8.5, y: 61}
+    - name: DoomObjects_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 334
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 43}
+        - {x: -20.5, y: 39}
+        - {x: -20.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 37}
+        - {x: 17.5, y: 43}
+    - name: DoomObjects_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 334
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 43}
+        - {x: -20.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 37}
+        - {x: 17.5, y: 43}
+    - name: DoomObjects_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 334
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 9}
+        - {x: 7.5, y: 56}
+        - {x: -6.5, y: 56}
+        - {x: -8.5, y: 54}
+        - {x: -8.5, y: 43}
+        - {x: -20.5, y: 6}
+        - {x: -20.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 4}
+        - {x: 16.5, y: 5}
+    - name: DoomObjects_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 334
+        width: 35
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 66}
+        - {x: -17.5, y: 52}
+        - {x: -17.5, y: 3}
+        - {x: -12.5, y: 4}
+        - {x: -6.5, y: 9}
+        - {x: -15.5, y: 2}
+        - {x: -15.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 53}
+        - {x: 7.5, y: 66}
+    - name: DoomObjects_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 334
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 66}
+        - {x: -18, y: 27}
+        - {x: -19, y: 19}
+        - {x: -19, y: 5}
+        - {x: -14, y: 5}
+        - {x: -11, y: 6}
+        - {x: -8, y: 10}
+        - {x: -15, y: 2}
+        - {x: -15, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 51}
+        - {x: 2, y: 66}
+    - name: DoomObjects_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 334
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -16, y: 16}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 1}
+        - {x: 16, y: 10}
+        - {x: 16, y: 35}
+    - name: DoomObjects_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 334
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -16, y: 16}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 1}
+        - {x: 16, y: 10}
+        - {x: 16, y: 35}
+    - name: DoomObjects_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 53}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 53}
+    - name: DoomObjects_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 278
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 40}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 40}
+    - name: DoomObjects_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 53}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 53}
+    - name: DoomObjects_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 278
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 40}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 40}
+    - name: DoomObjects_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 278
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 45}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 43}
+        - {x: 14.5, y: 45}
+    - name: DoomObjects_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 278
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 46}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 42}
+        - {x: 12.5, y: 46}
+    - name: DoomObjects_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 278
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 49}
+        - {x: -17.5, y: 45}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 47}
+        - {x: 11.5, y: 49}
+    - name: DoomObjects_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 51
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 70}
+        - {x: -22.5, y: 64}
+        - {x: -25.5, y: 36}
+        - {x: -25.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 25.5, y: 70}
+    - name: DoomObjects_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 147
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 47}
+        - {x: -23.5, y: 36}
+        - {x: -23.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 26}
+        - {x: 11.5, y: 47}
+    - name: DoomObjects_72
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 147
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 147
+        width: 124
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 66}
+        - {x: 57, y: 66}
+        - {x: 53, y: 69}
+        - {x: 50, y: 68}
+        - {x: 53, y: 69}
+        - {x: 62, y: 68}
+        - {x: 62, y: 124}
+        - {x: -43, y: 124}
+        - {x: -52, y: 106}
+        - {x: -48, y: 103}
+        - {x: -33, y: 99}
+        - {x: -40, y: 97}
+        - {x: -55, y: 107}
+        - {x: -62, y: 94}
+        - {x: -62, y: 68}
+        - {x: -51, y: 58}
+        - {x: -52, y: 56}
+        - {x: -52, y: 54}
+        - {x: -52, y: 56}
+        - {x: -55, y: 61}
+        - {x: -62, y: 58}
+        - {x: -62, y: 46}
+        - {x: -57, y: 39}
+        - {x: -45, y: 37}
+        - {x: -36, y: 42}
+        - {x: -62, y: 25}
+        - {x: -62, y: 0}
+        - {x: 60, y: 0}
+        - {x: 62, y: 3}
+        - {x: 62, y: 64}
+    - name: DoomObjects_74
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 147
+        width: 38
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 128}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 128}
+    - name: DoomObjects_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 30
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 30
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 30
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 41
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 84}
+        - {x: -20.5, y: 36}
+        - {x: -20.5, y: 3}
+        - {x: -18.5, y: 3}
+        - {x: -0.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 20.5, y: 2}
+        - {x: 20.5, y: 31}
+        - {x: 2.5, y: 84}
+    - name: DoomObjects_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 39
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 79}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 9}
+        - {x: -15.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 24}
+        - {x: 1.5, y: 79}
+    - name: DoomObjects_80
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 18
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 91
+        width: 14
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 56
+        width: 22
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_83
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 59
+        width: 22
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_84
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 80
+        width: 22
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_85
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 80
+        width: 22
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_86
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 87
+        width: 22
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_87
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 83
+        width: 22
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 76
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 46
+        width: 29
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 564
+        width: 24
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 564
+        width: 26
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 564
+        width: 26
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 564
+        width: 26
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 487
+        width: 19
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 487
+        width: 19
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 487
+        width: 18
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DoomObjects_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 487
+        width: 20
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

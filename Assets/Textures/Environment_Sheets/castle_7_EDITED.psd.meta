@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: a728f1d6b461d70488f7f09e709d0f29
+timeCreated: 1459840412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: castle_7_EDITED_0
+    21300002: castle_7_EDITED_1
+    21300004: castle_7_EDITED_2
+    21300006: castle_7_EDITED_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: castle_7_EDITED_0
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 209
+        width: 1552
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -540.2299, y: 98.08911}
+        - {x: -540.2299, y: -96.91089}
+        - {x: 541.7701, y: -96.91089}
+        - {x: 541.7701, y: 98.08911}
+    - name: castle_7_EDITED_1
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 586
+        width: 255
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.81287, y: 161.70682}
+        - {x: -88.81287, y: -161.29318}
+        - {x: 90.18713, y: -161.29318}
+        - {x: 90.18713, y: 161.70682}
+    - name: castle_7_EDITED_2
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1059
+        width: 254
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.00952, y: 72.198}
+        - {x: -88.00952, y: -70.802}
+        - {x: 89.99048, y: -70.802}
+        - {x: 89.99048, y: 72.198}
+    - name: castle_7_EDITED_3
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1058
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.60742, y: 71.50134}
+        - {x: -71.60742, y: -71.49866}
+        - {x: 73.39258, y: -71.49866}
+        - {x: 73.39258, y: 71.50134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

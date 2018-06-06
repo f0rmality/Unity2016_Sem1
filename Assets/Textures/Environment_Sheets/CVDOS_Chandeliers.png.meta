@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: aa57403e1b41fd64a927967578c781d3
+timeCreated: 1456130232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CVDOS_Chandeliers_0
+    21300002: CVDOS_Chandeliers_1
+    21300004: CVDOS_Chandeliers_2
+    21300006: CVDOS_Chandeliers_3
+    21300008: CVDOS_Chandeliers_4
+    21300010: CVDOS_Chandeliers_5
+    21300012: CVDOS_Chandeliers_6
+    21300014: CVDOS_Chandeliers_7
+    21300016: CVDOS_Chandeliers_8
+    21300018: CVDOS_Chandeliers_9
+    21300020: CVDOS_Chandeliers_10
+    21300022: CVDOS_Chandeliers_11
+    21300024: CVDOS_Chandeliers_12
+    21300026: CVDOS_Chandeliers_13
+    21300028: CVDOS_Chandeliers_14
+    21300030: CVDOS_Chandeliers_15
+    21300032: CVDOS_Chandeliers_16
+    21300034: CVDOS_Chandeliers_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CVDOS_Chandeliers_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 476
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 31.5}
+        - {x: -33.5, y: 15.5}
+        - {x: -25.5, y: 5.5}
+        - {x: -19.5, y: 3.5}
+        - {x: -26.5, y: 3.5}
+        - {x: -26.5, y: 5.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -32.5, y: 6.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -18.5}
+        - {x: -15.5, y: -31.5}
+        - {x: 33.5, y: -31.5}
+        - {x: 33.5, y: 31.5}
+    - name: CVDOS_Chandeliers_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 508
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 476
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 434
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 18.5}
+        - {x: -32, y: -18.5}
+        - {x: 32, y: -18.5}
+        - {x: 32, y: 17.5}
+        - {x: 31, y: 18.5}
+    - name: CVDOS_Chandeliers_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 440
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 394
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 16}
+        - {x: -65, y: -6}
+        - {x: -55, y: -16}
+        - {x: 64, y: -16}
+        - {x: 65, y: -9}
+        - {x: 65, y: 16}
+    - name: CVDOS_Chandeliers_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 394
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 16}
+        - {x: -65, y: -6}
+        - {x: -55, y: -16}
+        - {x: 64, y: -16}
+        - {x: 65, y: -9}
+        - {x: 65, y: 16}
+    - name: CVDOS_Chandeliers_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 361
+        width: 130
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 361
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 338
+        width: 128
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 320
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 244
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 34}
+        - {x: -65, y: -16}
+        - {x: -57, y: -34}
+        - {x: 65, y: -34}
+        - {x: 65, y: 34}
+    - name: CVDOS_Chandeliers_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 244
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 34}
+        - {x: -65, y: -16}
+        - {x: -57, y: -34}
+        - {x: 65, y: -34}
+        - {x: 65, y: 34}
+    - name: CVDOS_Chandeliers_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -40}
+        - {x: -41, y: -37}
+        - {x: -45, y: -37}
+        - {x: -46, y: -40}
+      - - {x: 6, y: -32}
+        - {x: 0, y: -38}
+        - {x: 0, y: -40}
+        - {x: 28, y: -40}
+        - {x: 28, y: -38}
+        - {x: 22, y: -32}
+      - - {x: -65, y: 40}
+        - {x: -65, y: -8}
+        - {x: -28, y: -30}
+        - {x: 41, y: -30}
+        - {x: 65, y: -22}
+        - {x: 65, y: 40}
+    - name: CVDOS_Chandeliers_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 174
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 34}
+        - {x: -64.5, y: -8}
+        - {x: -24.5, y: -34}
+        - {x: 39.5, y: -34}
+        - {x: 64.5, y: -16}
+        - {x: 64.5, y: 34}
+    - name: CVDOS_Chandeliers_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 162
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 62
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CVDOS_Chandeliers_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

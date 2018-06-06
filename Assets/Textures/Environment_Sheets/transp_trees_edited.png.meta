@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 6b00b0100afb68642ab09d44bfafa3b2
+timeCreated: 1455155091
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: transp_trees_edited_0
+    21300002: transp_trees_edited_1
+    21300004: transp_trees_edited_2
+    21300006: transp_trees_edited_3
+    21300008: transp_trees_edited_4
+    21300010: transp_trees_edited_5
+    21300012: transp_trees_edited_6
+    21300014: transp_trees_edited_7
+    21300016: transp_trees_edited_8
+    21300018: transp_trees_edited_9
+    21300020: transp_trees_edited_10
+    21300022: transp_trees_edited_11
+    21300024: transp_trees_edited_12
+    21300026: transp_trees_edited_13
+    21300028: transp_trees_edited_14
+    21300030: transp_trees_edited_15
+    21300032: transp_trees_edited_16
+    21300034: transp_trees_edited_17
+    21300036: transp_trees_edited_18
+    21300038: transp_trees_edited_19
+    21300040: transp_trees_edited_20
+    21300042: transp_trees_edited_21
+    21300044: transp_trees_edited_22
+    21300046: transp_trees_edited_23
+    21300048: transp_trees_edited_24
+    21300050: transp_trees_edited_25
+    21300052: transp_trees_edited_26
+    21300054: transp_trees_edited_27
+    21300056: transp_trees_edited_28
+    21300058: transp_trees_edited_29
+    21300060: transp_trees_edited_30
+    21300062: transp_trees_edited_31
+    21300064: transp_trees_edited_32
+    21300066: transp_trees_edited_33
+    21300068: transp_trees_edited_34
+    21300070: transp_trees_edited_35
+    21300072: transp_trees_edited_36
+    21300074: transp_trees_edited_37
+    21300076: transp_trees_edited_38
+    21300078: transp_trees_edited_39
+    21300080: transp_trees_edited_40
+    21300082: transp_trees_edited_41
+    21300084: transp_trees_edited_42
+    21300086: transp_trees_edited_43
+    21300088: transp_trees_edited_44
+    21300090: transp_trees_edited_45
+    21300092: transp_trees_edited_46
+    21300094: transp_trees_edited_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: transp_trees_edited_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 155
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 183}
+        - {x: -13.5, y: 183}
+        - {x: -42.5, y: 164}
+        - {x: -67.5, y: 132}
+        - {x: -77.5, y: 112}
+        - {x: -77.5, y: 71}
+        - {x: -6.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 70.5, y: 59}
+        - {x: 77.5, y: 80}
+        - {x: 77.5, y: 148}
+    - name: transp_trees_edited_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 97
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 191}
+        - {x: -47.5, y: 129}
+        - {x: -48.5, y: 121}
+        - {x: -48.5, y: 16}
+        - {x: -24.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 48.5, y: 27}
+        - {x: 48.5, y: 178}
+        - {x: 25.5, y: 191}
+      - - {x: 45.5, y: 56}
+        - {x: 47.5, y: 54}
+        - {x: 48.5, y: 54}
+        - {x: 48.5, y: 59}
+        - {x: 46.5, y: 59}
+      - - {x: 44.5, y: 86}
+        - {x: 44.5, y: 85}
+        - {x: 47.5, y: 82}
+        - {x: 48.5, y: 82}
+        - {x: 48.5, y: 88}
+        - {x: 46.5, y: 88}
+      - - {x: 44.5, y: 95}
+        - {x: 44.5, y: 94}
+        - {x: 47.5, y: 91}
+        - {x: 48.5, y: 91}
+        - {x: 48.5, y: 97}
+        - {x: 46.5, y: 97}
+      - - {x: 45.5, y: 186}
+        - {x: 42.5, y: 182}
+        - {x: 42.5, y: 174}
+        - {x: 44.5, y: 165}
+        - {x: 47.5, y: 163}
+        - {x: 48.5, y: 163}
+        - {x: 48.5, y: 186}
+    - name: transp_trees_edited_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 353
+        width: 57
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 25}
+        - {x: 28.5, y: 33}
+        - {x: 28.5, y: 102}
+        - {x: 15.5, y: 159}
+        - {x: -28.5, y: 159}
+        - {x: -28.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 28.5, y: 1}
+        - {x: 28.5, y: 12}
+        - {x: 15.5, y: 27}
+      - - {x: 11.5, y: 158}
+        - {x: 3.5, y: 152}
+        - {x: 3.5, y: 113}
+        - {x: 10.5, y: 93}
+        - {x: 25.5, y: 93}
+        - {x: 28.5, y: 96}
+        - {x: 28.5, y: 158}
+    - name: transp_trees_edited_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 448
+        width: 24
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 480
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 482
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 482
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 449
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 461
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 464
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 458
+        width: 19
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 451
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 448
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -25, y: 3}
+        - {x: -22, y: 0}
+        - {x: 18, y: 0}
+        - {x: 25, y: 3}
+        - {x: 25, y: 28}
+        - {x: 21, y: 32}
+    - name: transp_trees_edited_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 419
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 423
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 422
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 422
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 423
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 415
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -25, y: 0}
+        - {x: 22, y: 0}
+        - {x: 25, y: 3}
+        - {x: 25, y: 32}
+    - name: transp_trees_edited_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 388
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 386
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 290
+        width: 81
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 126}
+        - {x: 10.5, y: 118}
+        - {x: 10.5, y: 108}
+        - {x: 11.5, y: 103}
+        - {x: 11.5, y: 99}
+        - {x: 11.5, y: 103}
+        - {x: 9.5, y: 108}
+        - {x: 9.5, y: 113}
+        - {x: 2.5, y: 126}
+        - {x: -40.5, y: 126}
+        - {x: -40.5, y: 0}
+        - {x: 40.5, y: 0}
+        - {x: 40.5, y: 126}
+    - name: transp_trees_edited_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 31
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 386
+        width: 64
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 317
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 62
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 52}
+        - {x: -28, y: 52}
+        - {x: -31, y: 48}
+        - {x: -31, y: 3}
+        - {x: -23, y: 0}
+        - {x: 30, y: 0}
+        - {x: 31, y: 7}
+        - {x: 31, y: 51}
+    - name: transp_trees_edited_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 320
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 64}
+        - {x: -25, y: 1}
+        - {x: -23, y: 0}
+        - {x: 25, y: 0}
+        - {x: 25, y: 63}
+        - {x: 23, y: 64}
+    - name: transp_trees_edited_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 124
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 169}
+        - {x: -15, y: 169}
+        - {x: -33, y: 148}
+        - {x: -62, y: 84}
+        - {x: -62, y: 45}
+        - {x: -25, y: 0}
+        - {x: 22, y: 0}
+        - {x: 62, y: 33}
+        - {x: 62, y: 87}
+        - {x: 59, y: 92}
+        - {x: 56, y: 90}
+        - {x: 45, y: 132}
+      - - {x: 33, y: 169}
+        - {x: 33, y: 153}
+        - {x: 36, y: 151}
+        - {x: 60, y: 149}
+        - {x: 62, y: 149}
+        - {x: 62, y: 169}
+    - name: transp_trees_edited_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 59
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 145
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 185}
+        - {x: -31.5, y: 185}
+        - {x: -67.5, y: 147}
+        - {x: -72.5, y: 98}
+        - {x: -72.5, y: 97}
+        - {x: -55.5, y: 69}
+        - {x: -50.5, y: 62}
+        - {x: -40.5, y: 55}
+        - {x: -53.5, y: 62}
+        - {x: -65.5, y: 64}
+        - {x: -72.5, y: 56}
+        - {x: -72.5, y: 1}
+        - {x: -70.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 72.5, y: 68}
+        - {x: 72.5, y: 174}
+      - - {x: 59.5, y: 61}
+        - {x: 51.5, y: 50}
+        - {x: 51.5, y: 15}
+        - {x: 57.5, y: 0}
+        - {x: 72.5, y: 0}
+        - {x: 72.5, y: 61}
+      - - {x: 47.5, y: 23}
+        - {x: 44.5, y: 21}
+        - {x: 42.5, y: 14}
+        - {x: 42.5, y: 12}
+        - {x: 44.5, y: 11}
+        - {x: 46.5, y: 11}
+        - {x: 51.5, y: 15}
+        - {x: 51.5, y: 20}
+        - {x: 50.5, y: 23}
+      - - {x: -72.5, y: 88}
+        - {x: -72.5, y: 84}
+        - {x: -71.5, y: 82}
+        - {x: -69.5, y: 82}
+        - {x: -64.5, y: 87}
+        - {x: -65.5, y: 90}
+        - {x: -68.5, y: 90}
+      - - {x: -72.5, y: 185}
+        - {x: -72.5, y: 161}
+        - {x: -67.5, y: 160}
+        - {x: -45.5, y: 160}
+        - {x: -43.5, y: 165}
+        - {x: -43.5, y: 180}
+        - {x: -46.5, y: 185}
+      - - {x: 52.5, y: 185}
+        - {x: 52.5, y: 179}
+        - {x: 58.5, y: 163}
+        - {x: 66.5, y: 160}
+        - {x: 72.5, y: 160}
+        - {x: 72.5, y: 185}
+    - name: transp_trees_edited_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 290
+        width: 61
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 97
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 73}
+        - {x: 15.5, y: 73}
+        - {x: 38.5, y: 85}
+        - {x: 40.5, y: 91}
+        - {x: 31.5, y: 95}
+        - {x: 43.5, y: 118}
+        - {x: 43.5, y: 122}
+        - {x: 17.5, y: 161}
+        - {x: -14.5, y: 161}
+        - {x: -35.5, y: 149}
+        - {x: -48.5, y: 124}
+        - {x: -48.5, y: 45}
+        - {x: -20.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 48.5, y: 30}
+        - {x: 48.5, y: 69}
+        - {x: 46.5, y: 69}
+      - - {x: -48.5, y: 36}
+        - {x: -45.5, y: 37}
+        - {x: -45.5, y: 50}
+        - {x: -47.5, y: 52}
+        - {x: -48.5, y: 52}
+      - - {x: -47.5, y: 115}
+        - {x: -46.5, y: 112}
+        - {x: -40.5, y: 112}
+        - {x: -38.5, y: 114}
+        - {x: -39.5, y: 117}
+        - {x: -45.5, y: 117}
+    - name: transp_trees_edited_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 128
+        width: 129
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 103}
+        - {x: 56.5, y: 98}
+        - {x: 64.5, y: 111}
+        - {x: 64.5, y: 117}
+        - {x: 59.5, y: 118}
+        - {x: 37.5, y: 109}
+        - {x: 36.5, y: 108}
+        - {x: 21.5, y: 108}
+        - {x: 24.5, y: 108}
+        - {x: 30.5, y: 110}
+        - {x: 34.5, y: 112}
+        - {x: 49.5, y: 126}
+        - {x: 48.5, y: 129}
+        - {x: 45.5, y: 129}
+        - {x: 31.5, y: 123}
+        - {x: 22.5, y: 151}
+        - {x: 7.5, y: 161}
+        - {x: -3.5, y: 161}
+        - {x: -26.5, y: 142}
+        - {x: -28.5, y: 138}
+        - {x: -32.5, y: 123}
+        - {x: -29.5, y: 119}
+        - {x: -38.5, y: 107}
+        - {x: -39.5, y: 103}
+        - {x: -34.5, y: 96}
+        - {x: -36.5, y: 96}
+        - {x: -42.5, y: 110}
+        - {x: -45.5, y: 123}
+        - {x: -48.5, y: 126}
+        - {x: -64.5, y: 132}
+        - {x: -64.5, y: 32}
+        - {x: -49.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 49.5, y: 56}
+        - {x: 44.5, y: 73}
+        - {x: 57.5, y: 89}
+      - - {x: -21.5, y: 161}
+        - {x: -19.5, y: 158}
+        - {x: -12.5, y: 158}
+        - {x: -10.5, y: 160}
+        - {x: -10.5, y: 161}
+    - name: transp_trees_edited_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 124
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 116}
+        - {x: -62, y: 36}
+        - {x: -34, y: 0}
+        - {x: 36, y: 0}
+        - {x: 62, y: 23}
+        - {x: 62, y: 116}
+    - name: transp_trees_edited_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 89
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 5}
+        - {x: 2.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 8.5, y: 5}
+        - {x: 6.5, y: 7}
+        - {x: 4.5, y: 7}
+      - - {x: -24.5, y: 121}
+        - {x: -39.5, y: 112}
+        - {x: -39.5, y: 38}
+        - {x: -8.5, y: 7}
+        - {x: 44.5, y: 7}
+        - {x: 44.5, y: 121}
+      - - {x: -44.5, y: 80}
+        - {x: -40.5, y: 80}
+        - {x: -38.5, y: 82}
+        - {x: -39.5, y: 85}
+        - {x: -44.5, y: 85}
+    - name: transp_trees_edited_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 101
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 69
+        width: 20
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 95
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 72}
+        - {x: 8.5, y: 106}
+        - {x: 1.5, y: 106}
+        - {x: -12.5, y: 97}
+        - {x: -25.5, y: 106}
+        - {x: -47.5, y: 106}
+        - {x: -47.5, y: 59}
+        - {x: -19.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 47.5, y: 22}
+        - {x: 47.5, y: 96}
+        - {x: 13.5, y: 90}
+    - name: transp_trees_edited_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 86
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 124}
+        - {x: -43, y: 119}
+        - {x: -43, y: 21}
+        - {x: -30, y: 0}
+        - {x: -3, y: 0}
+        - {x: 43, y: 55}
+        - {x: 43, y: 123}
+        - {x: 42, y: 124}
+      - - {x: -32, y: 15}
+        - {x: -32, y: 7}
+        - {x: -30, y: 5}
+        - {x: -28, y: 5}
+        - {x: -26, y: 7}
+        - {x: -26, y: 12}
+        - {x: -29, y: 16}
+    - name: transp_trees_edited_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 64
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 63
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 35}
+        - {x: -31.5, y: 3}
+        - {x: -29.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 31.5, y: 3}
+        - {x: 31.5, y: 30}
+        - {x: 28.5, y: 35}
+    - name: transp_trees_edited_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transp_trees_edited_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
